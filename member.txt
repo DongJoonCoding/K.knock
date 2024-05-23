@@ -2,7 +2,11 @@ Hello World
 Team: kknock tigers
 member: Mario
 <<<<<<< HEAD
+<<<<<<< HEAD
 	Peach
+=======
+	Peach11111
+>>>>>>> member
 =======
 	Peach11111
 >>>>>>> member
